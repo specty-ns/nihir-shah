@@ -43,7 +43,7 @@ h2, h3 {
 
 /* Subheading */
 #hero p {
-    font-size: 1.5rem;
+    font-size: 16px;
     margin-bottom: 2rem;
 }
 
@@ -92,7 +92,7 @@ h2, h3 {
     }
 
     #hero p {
-        font-size: 1.2rem;  /* Smaller font size for paragraph */
+        font-size: 14px;  /* Smaller font size for paragraph */
         margin-bottom: 1.5rem;  /* Adjusted margin */
     }
 
@@ -112,7 +112,7 @@ h2, h3 {
     }
 
     #hero p {
-        font-size: 1rem;  /* Further reduced font size for paragraph */
+        font-size: 13px;  /* Further reduced font size for paragraph */
         margin-bottom: 1rem;  /* Adjusted margin */
     }
 
@@ -425,9 +425,6 @@ h2, h3 {
         font-size: 2rem;
     }
 
-    #hero p {
-        font-size: 1.2rem;
-    }
 
     #hero .btn {
         padding: 0.8rem 1.5rem;
